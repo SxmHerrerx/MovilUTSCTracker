@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Curso_Tracker.Index">
+    <ContentPage.Content>
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="*" />
+            </Grid.RowDefinitions>
+            <Image Source="C:\Users\AngelMoreno\Desktop\Curso Tracker\Fondo.png" Aspect="AspectFill" />
+            <StackLayout VerticalOptions="CenterAndExpand" HorizontalOptions="CenterAndExpand">
+
+
+                <Button Text="Registro de Empleados" BackgroundColor="#1D242B" TextColor="White" CornerRadius="15" Clicked="RegistroEmpleado_Clicked" WidthRequest="200" />
+                <Button Text="Seguimiento" BackgroundColor="#1D242B" TextColor="White" CornerRadius="15" Clicked="Seguimiento_Clicked" WidthRequest="200" />
+                <Button Text="Registro de Curso" BackgroundColor="#1D242B" TextColor="White" CornerRadius="15" Clicked="ReguistroCurso_Clicked" WidthRequest="200" />
+                
+                          
+            </StackLayout>
+        </Grid>
+    </ContentPage.Content>
+</ContentPage>

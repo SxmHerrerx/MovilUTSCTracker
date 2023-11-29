@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Curso_Tracker.Seguimiento">
+    <StackLayout Padding="0" Margin="0,0,0,0" HorizontalOptions="FillAndExpand">
+
+        <Label Text="Seguimento" FontSize="25" TextColor="White" HorizontalOptions="Center" Margin="0,0,0,0"/>
+
+        <StackLayout  Margin="10,10,10,10" >
+            <Entry x:Name="txtIdEmpleado" IsVisible="False"/>
+            <Entry Placeholder="No. de Empleado"
+               FontSize="16" Keyboard="Numeric" x:Name="txtNumeroEmpleado"/>
+            <Entry Placeholder="Nombre del Empleado" x:Name="txtNombreEmpleado"
+               FontSize="16" />
+            <Entry Placeholder="Nombre de Curso" x:Name="txtNombreCurso"
+               FontSize="16" />
+            <Entry Placeholder="Lugar del Curso" x:Name="txtLugarCurso"
+               FontSize="16" />
+            <Label Text="Fecha" FontSize="16" TextColor="White" HorizontalOptions="Start" Margin="5,0,0,-15" />
+            <DatePicker x:Name="FechaPicker" FontSize="16"  />
+
+            <Entry Placeholder="Tiempo de Curso. Ejemplo: 2:30" x:Name="txtTiempoCurso" FontSize="16"  />
+
+            <Picker Title="Estatus" x:Name="txtEstatus"
+                FontSize="16">
+                <Picker.Items>
+                    <x:String>Programado</x:String>
+                    <x:String>En Progreso</x:String>
+                    <x:String>Completo</x:String>
+                </Picker.Items>
+            </Picker>
+            <Entry Placeholder="Calificacion" x:Name="txtCalificacion"
+               FontSize="16"
+                   Keyboard="Numeric"/>
+            
+            <Button Text="Registrar"
+                    x:Name="BtnRegistrar"
+                FontSize="16"
+                 Clicked="RegistrarClicked"/>
+
+            <Button Text="Actualizar"
+                FontSize="16"
+                    x:Name="BtnActualizar"
+                 Clicked="ActualizarClicked"/>
+            <Button Text="Eliminar"
+                FontSize="16"
+                    x:Name="BtnEliminar"
+                 Clicked="BtnEliminiarClicked"/>
+        </StackLayout>
+        <ListView x:Name="lstRelacion" ItemSelected="lstRelacion_ItemSelected" >
+            <ListView.ItemTemplate >
+                <DataTemplate >
+                    <ViewCell>
+                        <Grid>
+                            <Grid.RowDefinitions>
+                                <RowDefinition Height="Auto"/>
+                                <RowDefinition Height="Auto"/>
+                            </Grid.RowDefinitions>
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="*"/>
+                                <ColumnDefinition Width="*"/>
+                                <ColumnDefinition Width="*"/>
+                                <ColumnDefinition Width="*"/>
+                                <ColumnDefinition Width="*"/>
+                                <ColumnDefinition Width="*"/>
+                            </Grid.ColumnDefinitions>
+                            <Label Text="{Binding Id}" Grid.Row="0" Grid.Column="0" TextColor="Black"/>
+                            <Label Text="{Binding NumEmpleado}" Grid.Row="0" Grid.Column="1" TextColor="Black"/>
+                            <Label Text="{Binding NombreEmpleado}" Grid.Row="0" Grid.Column="2" TextColor="Black"/>
+                            <Label Text="{Binding NombreCurso}" Grid.Row="0" Grid.Column="3" TextColor="Black"/>
+                            <Label Text="{Binding LugarDeCurso}" Grid.Row="0" Grid.Column="4" TextColor="Black"/>
+                            <Label Text="{Binding Fecha}" Grid.Row="0" Grid.Column="5" TextColor="Black"/>
+                            <Label Text="{Binding Hora}" Grid.Row="0" Grid.Column="6" TextColor="Black"/>
+                            <Label Text="{Binding Estatus}" Grid.Row="0" Grid.Column="7" TextColor="Black"/>
+                            <Label Text="{Binding Calificacion}" Grid.Row="0" Grid.Column="8" TextColor="Black"/>
+
+
+                        </Grid>
+                    </ViewCell>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+    </StackLayout>
+    
+
+</ContentPage>

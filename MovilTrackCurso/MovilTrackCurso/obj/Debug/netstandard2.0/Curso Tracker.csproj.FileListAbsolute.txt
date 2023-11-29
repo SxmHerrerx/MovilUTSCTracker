@@ -1,0 +1,60 @@
+C:\VisualBasic\UTSC\Curso Tracker\Curso Tracker\Curso Tracker\bin\Debug\netstandard2.0\Curso Tracker.deps.json
+C:\VisualBasic\UTSC\Curso Tracker\Curso Tracker\Curso Tracker\bin\Debug\netstandard2.0\Curso Tracker.dll
+C:\VisualBasic\UTSC\Curso Tracker\Curso Tracker\Curso Tracker\bin\Debug\netstandard2.0\Curso Tracker.pdb
+C:\VisualBasic\UTSC\Curso Tracker\Curso Tracker\Curso Tracker\obj\Debug\netstandard2.0\Curso Tracker.csproj.AssemblyReference.cache
+C:\VisualBasic\UTSC\Curso Tracker\Curso Tracker\Curso Tracker\obj\Debug\netstandard2.0\Curso Tracker.GeneratedMSBuildEditorConfig.editorconfig
+C:\VisualBasic\UTSC\Curso Tracker\Curso Tracker\Curso Tracker\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\VisualBasic\UTSC\Curso Tracker\Curso Tracker\Curso Tracker\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\VisualBasic\UTSC\Curso Tracker\Curso Tracker\Curso Tracker\obj\Debug\netstandard2.0\Curso Tracker.AssemblyInfoInputs.cache
+C:\VisualBasic\UTSC\Curso Tracker\Curso Tracker\Curso Tracker\obj\Debug\netstandard2.0\Curso Tracker.AssemblyInfo.cs
+C:\VisualBasic\UTSC\Curso Tracker\Curso Tracker\Curso Tracker\obj\Debug\netstandard2.0\Curso Tracker.csproj.CoreCompileInputs.cache
+C:\VisualBasic\UTSC\Curso Tracker\Curso Tracker\Curso Tracker\obj\Debug\netstandard2.0\XamlC.stamp
+C:\VisualBasic\UTSC\Curso Tracker\Curso Tracker\Curso Tracker\obj\Debug\netstandard2.0\Curso Tracker.dll
+C:\VisualBasic\UTSC\Curso Tracker\Curso Tracker\Curso Tracker\obj\Debug\netstandard2.0\refint\Curso Tracker.dll
+C:\VisualBasic\UTSC\Curso Tracker\Curso Tracker\Curso Tracker\obj\Debug\netstandard2.0\Curso Tracker.pdb
+C:\VisualBasic\UTSC\Curso Tracker\Curso Tracker\Curso Tracker\obj\Debug\netstandard2.0\ref\Curso Tracker.dll
+C:\VisualBasic\UTSC\Curso Tracker\Curso Tracker\Curso Tracker\obj\Debug\netstandard2.0\Registrar.xaml.g.cs
+C:\VisualBasic\UTSC\Curso Tracker\Curso Tracker\Curso Tracker\obj\Debug\netstandard2.0\Index.xaml.g.cs
+C:\VisualBasic\UTSC\Curso Tracker\Curso Tracker\Curso Tracker\obj\Debug\netstandard2.0\Registro de Cursos.xaml.g.cs
+C:\VisualBasic\UTSC\Curso Tracker\Curso Tracker\Curso Tracker\obj\Debug\netstandard2.0\Registro de Empleado.xaml.g.cs
+C:\VisualBasic\UTSC\Curso Tracker\Curso Tracker\Curso Tracker\obj\Debug\netstandard2.0\Seguimiento.xaml.g.cs
+C:\Users\AngelMoreno\Desktop\Curso Tracker\Curso Tracker\Curso Tracker\bin\Debug\netstandard2.0\Curso Tracker.deps.json
+C:\Users\AngelMoreno\Desktop\Curso Tracker\Curso Tracker\Curso Tracker\bin\Debug\netstandard2.0\Curso Tracker.dll
+C:\Users\AngelMoreno\Desktop\Curso Tracker\Curso Tracker\Curso Tracker\bin\Debug\netstandard2.0\Curso Tracker.pdb
+C:\Users\AngelMoreno\Desktop\Curso Tracker\Curso Tracker\Curso Tracker\obj\Debug\netstandard2.0\Curso Tracker.csproj.AssemblyReference.cache
+C:\Users\AngelMoreno\Desktop\Curso Tracker\Curso Tracker\Curso Tracker\obj\Debug\netstandard2.0\Curso Tracker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AngelMoreno\Desktop\Curso Tracker\Curso Tracker\Curso Tracker\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\AngelMoreno\Desktop\Curso Tracker\Curso Tracker\Curso Tracker\obj\Debug\netstandard2.0\Index.xaml.g.cs
+C:\Users\AngelMoreno\Desktop\Curso Tracker\Curso Tracker\Curso Tracker\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\AngelMoreno\Desktop\Curso Tracker\Curso Tracker\Curso Tracker\obj\Debug\netstandard2.0\Registrar.xaml.g.cs
+C:\Users\AngelMoreno\Desktop\Curso Tracker\Curso Tracker\Curso Tracker\obj\Debug\netstandard2.0\Registro de Cursos.xaml.g.cs
+C:\Users\AngelMoreno\Desktop\Curso Tracker\Curso Tracker\Curso Tracker\obj\Debug\netstandard2.0\Registro de Empleado.xaml.g.cs
+C:\Users\AngelMoreno\Desktop\Curso Tracker\Curso Tracker\Curso Tracker\obj\Debug\netstandard2.0\Seguimiento.xaml.g.cs
+C:\Users\AngelMoreno\Desktop\Curso Tracker\Curso Tracker\Curso Tracker\obj\Debug\netstandard2.0\Curso Tracker.AssemblyInfoInputs.cache
+C:\Users\AngelMoreno\Desktop\Curso Tracker\Curso Tracker\Curso Tracker\obj\Debug\netstandard2.0\Curso Tracker.AssemblyInfo.cs
+C:\Users\AngelMoreno\Desktop\Curso Tracker\Curso Tracker\Curso Tracker\obj\Debug\netstandard2.0\Curso Tracker.csproj.CoreCompileInputs.cache
+C:\Users\AngelMoreno\Desktop\Curso Tracker\Curso Tracker\Curso Tracker\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\AngelMoreno\Desktop\Curso Tracker\Curso Tracker\Curso Tracker\obj\Debug\netstandard2.0\Curso Tracker.dll
+C:\Users\AngelMoreno\Desktop\Curso Tracker\Curso Tracker\Curso Tracker\obj\Debug\netstandard2.0\refint\Curso Tracker.dll
+C:\Users\AngelMoreno\Desktop\Curso Tracker\Curso Tracker\Curso Tracker\obj\Debug\netstandard2.0\Curso Tracker.pdb
+C:\Users\AngelMoreno\Desktop\Curso Tracker\Curso Tracker\Curso Tracker\obj\Debug\netstandard2.0\ref\Curso Tracker.dll
+C:\Users\Mrsam\Desktop\Curso Tracker\Curso Tracker\Curso Tracker\bin\Debug\netstandard2.0\Curso Tracker.deps.json
+C:\Users\Mrsam\Desktop\Curso Tracker\Curso Tracker\Curso Tracker\bin\Debug\netstandard2.0\Curso Tracker.dll
+C:\Users\Mrsam\Desktop\Curso Tracker\Curso Tracker\Curso Tracker\bin\Debug\netstandard2.0\Curso Tracker.pdb
+C:\Users\Mrsam\Desktop\Curso Tracker\Curso Tracker\Curso Tracker\obj\Debug\netstandard2.0\Curso Tracker.csproj.AssemblyReference.cache
+C:\Users\Mrsam\Desktop\Curso Tracker\Curso Tracker\Curso Tracker\obj\Debug\netstandard2.0\Curso Tracker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mrsam\Desktop\Curso Tracker\Curso Tracker\Curso Tracker\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Mrsam\Desktop\Curso Tracker\Curso Tracker\Curso Tracker\obj\Debug\netstandard2.0\Index.xaml.g.cs
+C:\Users\Mrsam\Desktop\Curso Tracker\Curso Tracker\Curso Tracker\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Mrsam\Desktop\Curso Tracker\Curso Tracker\Curso Tracker\obj\Debug\netstandard2.0\Registrar.xaml.g.cs
+C:\Users\Mrsam\Desktop\Curso Tracker\Curso Tracker\Curso Tracker\obj\Debug\netstandard2.0\Registro de Cursos.xaml.g.cs
+C:\Users\Mrsam\Desktop\Curso Tracker\Curso Tracker\Curso Tracker\obj\Debug\netstandard2.0\Registro de Empleado.xaml.g.cs
+C:\Users\Mrsam\Desktop\Curso Tracker\Curso Tracker\Curso Tracker\obj\Debug\netstandard2.0\Seguimiento.xaml.g.cs
+C:\Users\Mrsam\Desktop\Curso Tracker\Curso Tracker\Curso Tracker\obj\Debug\netstandard2.0\Curso Tracker.AssemblyInfoInputs.cache
+C:\Users\Mrsam\Desktop\Curso Tracker\Curso Tracker\Curso Tracker\obj\Debug\netstandard2.0\Curso Tracker.AssemblyInfo.cs
+C:\Users\Mrsam\Desktop\Curso Tracker\Curso Tracker\Curso Tracker\obj\Debug\netstandard2.0\Curso Tracker.csproj.CoreCompileInputs.cache
+C:\Users\Mrsam\Desktop\Curso Tracker\Curso Tracker\Curso Tracker\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Mrsam\Desktop\Curso Tracker\Curso Tracker\Curso Tracker\obj\Debug\netstandard2.0\Curso Tracker.dll
+C:\Users\Mrsam\Desktop\Curso Tracker\Curso Tracker\Curso Tracker\obj\Debug\netstandard2.0\refint\Curso Tracker.dll
+C:\Users\Mrsam\Desktop\Curso Tracker\Curso Tracker\Curso Tracker\obj\Debug\netstandard2.0\Curso Tracker.pdb
+C:\Users\Mrsam\Desktop\Curso Tracker\Curso Tracker\Curso Tracker\obj\Debug\netstandard2.0\ref\Curso Tracker.dll
